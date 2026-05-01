@@ -16,7 +16,7 @@ Swiggy operates in a high-volume, low-margin environment where understanding mic
 The following requirements guided the development of this project:
 
 #### 1. KPI Requirements
-Referenced from **Screenshot 2026-04-27 at 10.34.33 AM.jpg**:
+
 *   **Total Sales (₹):** Overall revenue generated from food orders.[cite: 1]
 *   **Average Rating:** Customer satisfaction level across all restaurants.[cite: 1]
 *   **Average Order Value (₹):** Revenue per order.[cite: 1]
@@ -24,7 +24,7 @@ Referenced from **Screenshot 2026-04-27 at 10.34.33 AM.jpg**:
 *   **Total Orders:** Number of food orders received.[cite: 1]
 
 #### 2. Chart Requirements
-Referenced from **Screenshot 2026-04-27 at 10.52.42 AM.jpg**:
+
 *   **Monthly Sales Trend:** Shows how total sales fluctuate month by month.
 *   **Daily Sales Trend:** Highlights order and revenue variations across days of the week.
 *   **Total Sales by Food Type (Veg vs Non-Veg):** Compares revenue contribution by cuisine type.
